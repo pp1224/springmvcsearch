@@ -14,7 +14,7 @@
      <link href="<c:url value="/resources/css/style.css" ></c:url>">
      
      <script src="<c:url value="/resources/js/script.js"></c:url>"></script>
-
+   
     <title>Search Engine</title>
   </head>
   <body>

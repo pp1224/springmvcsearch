@@ -10,7 +10,7 @@
 
     <title>Uploading</title>
   </head>
-  <body>
+  <body> 
     
     <div class="container pl-6 mt-5" style="background: red;">
     <h1>Upload Profile !</h1>

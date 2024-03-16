@@ -12,7 +12,7 @@ public class searchController {
 	@RequestMapping("/user/{userId}")
 	public String getuser(@PathVariable("userId") int userId) {
 		System.out.println(userId);
-		return "home";
+		return "index";
 	}
 	
 	
